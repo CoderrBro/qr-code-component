@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/CoderrBro/qr-code-component)
-- Live Site URL: [Add live site URL here](https://stirring-mousse-52e22c.netlify.app/)
+- Live Site URL: [Add live site URL here](https://product-cardd.netlify.app/)
 
 ## My process
 
